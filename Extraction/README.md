@@ -1,4 +1,7 @@
 ## Design Smells Preprocessing
+
+[![DOI](https://zenodo.org/badge/345998973.svg)](https://zenodo.org/badge/latestdoi/345998973)
+
 This repositry provide code for preprocessing `.ini` files which are the output of the [ptidej](https://github.com/ptidejteam/v5.2) design smell detection tool
 
 We provide step-by-step guide to help you extract and associate java class files with design smells detected in them. 
